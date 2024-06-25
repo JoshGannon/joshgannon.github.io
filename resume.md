@@ -9,8 +9,6 @@ subtitle: Why you want to work with me
 ##### Logically (formerly Cerdant): Remote — August2021-Present
 Network Security Engineer II:  
 Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
-Subject Matter Expert for the team and providing best-practice standards via cli.  
-Fostering collaboration with the team.  
 
 Network Security Engineer I:  
 Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.
@@ -68,6 +66,8 @@ Enjoyed creating recursive functions and building data structures
 <br/><br/>
 
 ## Certifications
+BCSA (BlackBerry Cyber Security Administrator)
+
 NSE7 (Fortinet)
 
 NSE4 (Fortinet)
