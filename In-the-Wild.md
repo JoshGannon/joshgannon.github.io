@@ -6,8 +6,6 @@ redirect_from:
   - /in%20the%20wild/
 ---
 
-<br><br><br>
-
 ![2024 Bolivia Laguna Catal.jpg](/images/2024_Bolivia_Laguna_Catal.jpg)
 <br><br><br>
 ![Dominican_Republic_beach_and_wave_splash](/images/DOMR-splash.jpg)
@@ -28,4 +26,3 @@ redirect_from:
 <br><br><br>
 ![dragonfly molted on a tree](/images/dragonfly_molting.jpg)
 
-<br><br><br>
