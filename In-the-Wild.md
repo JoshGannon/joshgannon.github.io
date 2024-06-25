@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 <br><br><br>
-<br><br><br>
 
 ![2024 Bolivia Laguna Catal.jpg](/images/2024_Bolivia_Laguna_Catal.jpg)
 <br><br><br>
@@ -30,5 +29,3 @@ redirect_from:
 ![dragonfly molted on a tree](/images/dragonfly_molting.jpg)
 
 <br><br><br>
-<br><br><br>
-
