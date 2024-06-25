@@ -7,10 +7,12 @@ subtitle: Why you want to work with me
 ## Experience
 
 ##### Logically (formerly Cerdant): Remote — August2021-Present
-Recently:  
-Architecting and configuring new deployments, as well as securing and optimizing current deployments.
+Network Security Engineer II:  
+Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
+Subject Matter Expert for the team and providing best-practice standards via cli.  
+Fostering collaboration with the team.  
 
-Initially:  
+Network Security Engineer I:  
 Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.
 
 Platforms:  
