@@ -8,6 +8,10 @@ redirect_from:
 
 ![2024 Bolivia Laguna Catal.jpg](/images/2024_Bolivia_Laguna_Catal.jpg)
 <br><br><br>
+
+![2024_Bolivia_Salt_Flats.jpg](/images/2024_Bolivia_Salt_Flats.jpg)
+<br><br><br>
+
 ![Dominican_Republic_beach_and_wave_splash](/images/DOMR-splash.jpg)
 <br><br><br>
 ![underwater_seahorse](/images/seahorse.jpg)
