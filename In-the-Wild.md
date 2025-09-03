@@ -6,6 +6,9 @@ redirect_from:
   - /in%20the%20wild/
 ---
 
+![boa01.jpg](/images/boa01.jpg)
+<br><br><br>
+
 ![2024 Bolivia Laguna Catal.jpg](/images/2024_Bolivia_Laguna_Catal.jpg)
 <br><br><br>
 
@@ -29,4 +32,5 @@ redirect_from:
 ![blue ridge mountains and fog encroaching](/images/blue_ridge_mountains_thru_fog.jpg)
 <br><br><br>
 ![dragonfly molted on a tree](/images/dragonfly_molting.jpg)
+
 
