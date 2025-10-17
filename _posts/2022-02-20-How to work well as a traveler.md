@@ -1,5 +1,3 @@
-### Do travelers present the best model for supporting a modern workforce? 
-
 #### My Position
 Enabling employees, that are remote (traveler and settler), hybrid, and in-office, is our new standard. They are internal employees and are customers as well. 
 Travelers accelerate our best growth in this space by establishing **Core Tenets**:  
