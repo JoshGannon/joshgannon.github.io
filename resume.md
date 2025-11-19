@@ -7,6 +7,7 @@ subtitle: Why you want to work with me
 ## Experience
 
 ##### Logically (formerly Cerdant): Remote — August2021-Present
+
 Network Security Engineer II:  
 Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
 Designed and implemented systems that increased efficiency - by 500% - for deployments, across thousands of firewalls.  
@@ -28,6 +29,7 @@ Benefiting mostly from the Open Source communities and donating to them when pos
 
 ##### ADT Cybersecurity SMB: Remote — Nov2018-July2021
 
+Network Engineer:  
 Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.  
 Features highlighted:  
 Rapidly implemented Secure Remote Access for customers during COVID-19 protocols. 
@@ -78,6 +80,7 @@ NSE4 (Fortinet)
 SNSA (Sonicwall)
 
 MCP (Microsoft)
+
 
 
 
