@@ -17,7 +17,7 @@ Network Security Engineer I:
 Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.
 
 Platforms:  
-Sonicwall, Fortinet, ExtremeCloud IQ Arctic Wolf Aurora  
+Sonicwall, Fortinet, ExtremeCloud IQ, Arctic Wolf Aurora  
 
 ##### Lab - continuous
 Recently:  
@@ -78,5 +78,6 @@ NSE4 (Fortinet)
 SNSA (Sonicwall)
 
 MCP (Microsoft)
+
 
 
