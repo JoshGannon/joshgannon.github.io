@@ -7,6 +7,7 @@ subtitle: Why you want to work with me
 ## Experience
 
 ##### Logically (formerly Cerdant): Remote — August2021-Present
+Network Security Engineer II:  
 Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
 Designed and implemented systems that increased efficiency - by 500% - for deployments, across thousands of firewalls.  
 Lead Engineer for NextGen AV, Aurora.  
@@ -77,4 +78,5 @@ NSE4 (Fortinet)
 SNSA (Sonicwall)
 
 MCP (Microsoft)
+
 
