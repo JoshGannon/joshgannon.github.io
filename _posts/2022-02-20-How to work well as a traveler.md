@@ -1,5 +1,5 @@
 #### My Position
-Enabling workers, that are remote (traveler and settler), hybrid, and in-office, is our new standard. They are internal employees and are customers as well. 
+Enabling workers, that are remote (traveler and settler), hybrid, and in-office, is our new standard. They are internal coworkers and are customers as well. 
 Travelers accelerate our best growth in this space by establishing **Core Tenets**:  
 Security, productivity, reliability, modularity and redundancy.
 
