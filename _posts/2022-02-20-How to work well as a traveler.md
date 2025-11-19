@@ -9,7 +9,7 @@ Elevate the technical posture of all workers, by way of presenting the best prac
 
 ##### HR
 
-Worker personal residence (mail and street address) is in a locale that is approved by the employer (ex: State and Country). CPA and Law firms can be established, to keep personal paperwork tidy - they are experts in supporting travelers. These firms are worker advocates and that relationship also benefits employers. They are encouraged but are not subject to disclosure to the employer.
+Worker personal residence (mail and street address) is in a location that is approved by the employer (ex: State and Country). CPA and Law firms can be established, to keep personal paperwork tidy - they are experts in supporting travelers. These firms are worker advocates and that relationship also benefits employers. They are encouraged but are not subject to disclosure to the employer.
 
 ##### Internet
 
