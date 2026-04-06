@@ -6,7 +6,14 @@ subtitle: Why you want to work with me
 
 ## Experience
 
-##### Logically (formerly Cerdant): Remote — August2021-Present
+##### Vonvoo: Remote — April2026-Present
+Architect, Digital Asset Security:  
+Providing expert consulting and implementation to best-secure personal, digital assets.  
+
+##### Logically: Remote — August2021-April2026
+Engineer, Security Implemenation:  
+Advanced the prior role in a formalized org. structure.  
+Tailored AI agents to assist the team in troubleshooting and resolution, security best practices, identifying product firmware bugs and vulnerabilities, and configuration build automation techniques. Maintained/improved AI Agent QA and guardrails derived from career experience.  
 
 Network Security Engineer II:  
 Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
