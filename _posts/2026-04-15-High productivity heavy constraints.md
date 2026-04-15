@@ -30,7 +30,7 @@ Since there was so much communication and parallel work tasks to be completed ac
 ## Process and configuration validation
 Once the build process was churning on its own, I was able to spot-check and QA, identifying any remaining/dynamic items to address. This meant creating a new process and workflow to ensure all boxes moved into production had all remaining QA items addressed to ensure stability and the highest level of Cybersecurity.
 
-# Into production
+## Into production
 As these firewalls were being deployed into production, I was grateful that everyone stayed online...and also for such thoughtful and thorough feedback from the team. We used lessons learned to quickly adapt to anything needed and how to dynamically ensure all was in place as needed for this and the next in the fleet.
 
 ### Thinking back
