@@ -4,7 +4,7 @@ I'll provide a high-level overview of a massive firewall upgrade/roll-out, what 
 
 Due to vendor hardware upgrades and thousands of firewalls needing this replacement of critical infrastructure, I was tasked with creating a technical, semi-automated approach across multiple teams to meet the deadline.
 
-Task: upgrade firewalls in a highly complex configuration environment. Requirement: increase efficiency by at least 4x. Requirement: Build as custom, from scratch, to ensure stability and high quality. Problem?: Vendor cli syntax was not forward-compatible with their own, new hardware/firmware.
+Task: upgrade firewalls in a highly complex configuration environment. Requirement: increase efficiency by at least 3x. Requirement: Build as custom, from scratch, to ensure stability and high quality. Problem?: Vendor cli syntax was not forward-compatible with their own, new hardware/firmware.
 
 ## Finding a way forward
 
