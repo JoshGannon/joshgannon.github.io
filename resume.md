@@ -4,28 +4,50 @@ title: Resume
 subtitle: Why you want to work with me
 ---
 
+# Summary
+Network security engineer with 10+ years of experience designing and implementing firewall, endpoint, and
+SD-WAN solutions across enterprise and SMB environments. Deep hands-on expertise in Fortinet and SonicWall
+platforms, with demonstrated ability to operate at scale — including a 500% improvement in multi-site firewall
+deployment efficiency. Experienced in leading escalations, integrating AI tooling into engineering workflows, and
+guiding teams on security best practices. Currently focused on high-trust consulting for digital asset security.
+
+## Core Competecies
+Firewall Architecture & Deployment · SD-WAN Design · Endpoint Security (EDR/AV) · VPN & Secure Remote
+Access · Incident Response & Breach Investigation · Network Segmentation · NGFW Policy Design · AI
+Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environments
+
 ## Experience
 
 ##### Vonvoo: Remote — April2026-Present
-Architect, Digital Asset Security:  
-Providing expert consulting and implementation to best-secure personal, digital assets.  
+• Independent consulting practice focused on securing personal and organizational digital assets.
+• Assess threat exposure and implement layered security controls tailored to high-value individual and
+small-team environments.
+• Advise on wallet security, identity protection, access control, and operational security posture
 
 ##### Logically: Remote — August2021-April2026
 Engineer, Security Implemenation:  
-Advanced the prior role in a formalized org. structure.  
-Tailored AI agents to assist the team in troubleshooting and resolution, security best practices, identifying product firmware bugs and vulnerabilities, and configuration build automation techniques. Maintained/improved AI Agent QA and guardrails derived from career experience.  
+• Promoted into a formalized senior implementation role within the engineering org.
+• Developed and maintained AI agents to assist engineers with troubleshooting, security best practices,
+firmware vulnerability tracking, and configuration automation — reducing manual investigation time.
+• Established and refined QA processes and guardrails for AI agent outputs, ensuring reliability and accuracy
+grounded in real-world security experience. 
 
 Network Security Engineer II:  
-Architecting and configuring new deployments, as well as securing and optimizing current deployments.  
-Designed and implemented systems that increased efficiency - by 500% - for deployments, across thousands of firewalls.  
-Lead Engineer for NextGen AV, Aurora.  
-Serve as an Escalations Engineer.  
+• Architected and delivered new customer firewall and network security deployments; hardened and
+optimized existing environments.
+• Designed and implemented a scalable deployment system that increased team efficiency by 500% across
+thousands of managed firewalls.
+• Served as Lead Engineer for Arctic Wolf Aurora Protect and Focus (NextGen AV/EDR platform), owning
+rollout, configuration standards, and escalation handling.
+• Acted as Escalations Engineer for the most complex and high-severity customer issues across the team.
+• Core platforms: SonicWall, Fortinet, ExtremeCloud IQ, Arctic Wolf Aurora.  
 
 Network Security Engineer I:  
-Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.
-
-Platforms:  
-Sonicwall, Fortinet, ExtremeCloud IQ, Arctic Wolf Aurora  
+• Handled inbound technical cases for cybersecurity breaches, network traffic issues, and new security
+configurations across a managed customer base.
+• Investigated and resolved firewall misconfigurations, policy gaps, and connectivity failures in complex
+multi-site environments.
+• Core platforms: SonicWall, Fortinet, ExtremeCloud IQ.
 
 ##### Lab - continuous
 Recently:  
@@ -36,32 +58,32 @@ Benefiting mostly from the Open Source communities and donating to them when pos
 
 ##### ADT Cybersecurity SMB: Remote — Nov2018-July2021
 
-Network Engineer:  
-Working inbound customer support phone calls and cases, to investigate and resolve cybersecurity breaches, traffic issues or to build new functionality.  
-Features highlighted:  
-Rapidly implemented Secure Remote Access for customers during COVID-19 protocols. 
-Extensive, in-depth training to new team members.
-
-Platforms:  
-Sonicwall and GMS, Fortigate, Cisco ASA Firepower with FMC, Netgear Managed switches, Various Wifi Solutions.
+NOC Engineer:  
+• Provided 24/7 inbound support for SMB customers facing active security incidents, network outages, and
+firewall configuration needs.
+• Spearheaded rapid deployment of Secure Remote Access solutions for customers transitioning to remote
+operations during COVID-19.
+• Delivered in-depth technical onboarding and mentorship to new NOC team members.
+• Core platforms: SonicWall + GMS, FortiGate, Cisco ASA Firepower with FMC, Netgear managed switches,
+enterprise Wi-Fi.
 
 ##### NWG Solutions: Charlottesville, VA — Aug2015-Aug2018
 
-Systems Administrator (1.5 yr):  
-Recovered multiple environments victim of ransomware including server Bare-Metal restore. Created proof-of-concept documentation for multiple recovery scenarios, including best-practice prevention measures. Daily support included AD, DHCP, DNS, LDAP, Network Shares and Storage, Print Management, Microsoft Exchange Local and Online, Office 365, Azure AD Connect, Secure Remote Access (RDG and SSL VPN) and SQL DB Applications. Advanced internal systems with App Backups and LDAP integration.
-
-NOC Administrator (1.5 yr):  
-Improved and developed existing infrastructure systems for the NOC, as the sole employee in the dept. Before advancing to a new position (Systems Administrator), I trained my successor while maintaining continuity. Was responsible for the health of 200+ servers and 2000+ workstations – improved offerings for Dell hardware monitoring, built custom Synology NAS monitoring via SNMP, maintained and optimezed StorageCraft and BackupExec configs and managed Patch and AV while working incoming tickets and escalating as appropriate. Developed an automated system for install/repair of Managed Services software via a Group Policy start-up script, fully documented.
+• Systems Administrator (1.5 yrs): Delivered full-stack MSP support for SMB clients. Led recovery of multiple
+ransomware-compromised environments via bare-metal server restore. Authored proof-of-concept recovery
+runbooks and prevention documentation. Daily scope covered AD, DHCP, DNS, LDAP, Exchange, Office
+365, Azure AD Connect, SSL VPN, and SQL-backed applications.
+• NOC Administrator (1.5 yrs): Sole NOC employee responsible for 200+ servers and 2,000+ workstations.
+Built Dell hardware monitoring improvements, custom Synology NAS monitoring via SNMP, and managed
+StorageCraft/BackupExec backup infrastructure. Developed a fully automated Group Policy startup script for
+managed services software deployment; documented end-to-end. Trained successor before transitioning to
+field work.
 
 ##### CvilleITPros: Charlottesville, VA — 2014-July2015
 
 Cofounder and Technician:  
-A great beginning in the field of IT supporting residential and university clients.
-
-##### UVA SOM, Clinical Trials Office: Charlottesville, VA – 2011-2015
-
-Lab Trainer and Research Technician:  
-Blood draws and processing per study protocols.
+• Co-founded an IT services company supporting small businesses, residential clients, and university
+customers in the Charlottesville area.
 
 <br/><br/>
 
@@ -78,15 +100,14 @@ Enjoyed creating recursive functions and building data structures
 <br/><br/>
 
 ## Certifications
-BCSA (BlackBerry Cyber Security Administrator)
 
-NSE7 (Fortinet)
+Fortinet: NSE 7 – SD-WAN · NSE 4 – Network Security Professional
 
-NSE4 (Fortinet)
+SonicWall: Network Security Administrator (SNSA)
 
-SNSA (Sonicwall)
+Cylance: Certified Administrator
 
-MCP (Microsoft)
+Microsoft: MCP
 
 
 
