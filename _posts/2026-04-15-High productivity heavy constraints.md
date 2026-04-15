@@ -30,6 +30,9 @@ Since there was so much communication and parallel work tasks to be completed ac
 ## Process and configuration validation
 Once the build process was churning on its own, I was able to spot-check and QA, identifying any remaining/dynamic items to address. This meant creating a new process and workflow to ensure all boxes moved into production had all remaining QA items addressed to ensure stability and and a high level of Cybersecurity.
 
+# Into production
+As these firewalls were being deployed into production, I was grateful that everyone stayed online...and also for such thoughtful and thorough feedback from the team. We used lessons learned to quickly adapt to anything needed and how to dynamically ensure all was in place as needed for this and the next in the fleet.
+
 ### Thinking back
 It was such a great opportunity to work with the most talented teammates. Even though this project had highest priority for all involved teams, there were limitations on how much time could be used during the technical planning phase. The fleet had since been in full production for over a year, confirming stability and success of the project. Sometimes, we are presented with extraordinary challenges that impact a high volume of people - both coworkers, clients, and their clients; pushing through was rewarding and informed efficiency gains and friendships through the business. It also informed my future project, taking advantage of these new efficiency gains and high-quality methodology.
 
