@@ -4,6 +4,8 @@ title: Resume
 subtitle: Why you want to work with me
 ---
 
+<a href="./resources/Resume-JoshGannon.pdf" target="_blank" rel="noopener noreferrer">Open my resume (PDF)</a>&nbsp;|&nbsp;<a href="./resources/Resume-JoshGannon.pdf" download="Resume-JoshGannon.pdf">Download my resume (PDF)</a>
+
 # Summary
 Network security engineer with 10+ years of experience designing and implementing firewall, endpoint, and
 SD-WAN solutions across enterprise and SMB environments. Deep hands-on expertise in Fortinet and SonicWall
