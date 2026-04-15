@@ -6,7 +6,7 @@ subtitle: Why you want to work with me
 
 <a href="/resources/Resume-JoshGannon.pdf" target="_blank" rel="noopener noreferrer">Open my resume (PDF)</a>
 
-# Summary
+# SUMMARY
 Network security engineer with 10+ years of experience designing and implementing firewall, endpoint, and
 SD-WAN solutions across enterprise and SMB environments. Deep hands-on expertise in Fortinet and SonicWall
 platforms, with demonstrated ability to operate at scale — including a 500% improvement in multi-site firewall
@@ -18,7 +18,7 @@ Firewall Architecture & Deployment · SD-WAN Design · Endpoint Security (EDR/AV
 Access · Incident Response & Breach Investigation · Network Segmentation · NGFW Policy Design · AI
 Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environments
 
-## About
+## ABOUT
 • I secure networks for a living — and I've been doing it for over a decade across MSP, enterprise, and consulting environments.
 
 • My core is firewall architecture: Fortinet, SonicWall, SD-WAN, NGFW policy design, endpoint protection. I've worked everything from active breach response to building deployment systems that cut engineer workload by 500% across thousands of managed firewalls.
@@ -29,7 +29,7 @@ Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environme
 
 • I'm available for full time work. If you're working on something in network security, endpoint protection, or security automation — let's connect.
 
-## Experience
+## EXPERIENCE
 
 ##### Vonvoo: Remote — April2026-Present
 • Independent consulting practice focused on securing personal and organizational digital assets.
@@ -121,17 +121,17 @@ customers in the Charlottesville area.
 
 ## EDUCATION
 
-Piedmont Virginia Community College:  
-Spring 2014 Graduate
+Piedmont Virginia Community College: (2014 Graduate)
 
-Computer Science: Associate of Science:  
-Focus in C++ and Java
+• Computer Science: Associate of Science:  
 
-Enjoyed creating recursive functions and building data structures
+• • Focus in C++ and Java
+
+• • Enjoyed creating recursive functions and building data structures
 
 <br/><br/>
 
-## Certifications
+## CERTIFICATIONS
 
 Fortinet: NSE 7 – SD-WAN · NSE 4 – Network Security Professional
 
