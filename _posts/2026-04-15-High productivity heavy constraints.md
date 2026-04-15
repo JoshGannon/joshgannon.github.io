@@ -1,6 +1,6 @@
 # Forging high productivity under heavy time constraints
 
-I'll provide a high-level overview of a massive firewall upgrade/roll-out and what made it successful.
+I'll provide a high-level overview of a massive firewall upgrade/roll-out and what made it successful, and what I learned.
 
 Due to vendor hardware upgrades and thousands of firewalls needing this replacement of critical infrastructure, I was tasked with creating a technical, semi-automated approach across multiple teams to meet the deadline.
 
