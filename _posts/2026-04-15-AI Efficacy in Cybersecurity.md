@@ -11,7 +11,7 @@ With HatzAI for example, simply click to create a new agent, choose the AI Tool 
 
 LLM Verbosity and noise:
 
-In testing and where a vendor has much documentation, LLMs tended to be overly cautious and far too verbose for Cybersecurity topics. Within the Instructions Field, a directive can be added such as 'be concise'.  We humans are the subject matter expert and are the final line for decision-making - the LLMs can be leveraged to scour volumes of documentation and condense relevant information.
+In testing and where a vendor has much documentation, LLMs tended to be overly cautious, overly confident, and far too verbose for most Cybersecurity topics. Within the Instructions Field, a directive can be added such as 'be concise'.  We humans are the subject matter expert and are the final line for decision-making - the LLMs can be leveraged to scour volumes of documentation and condense relevant information.
 
 Firmware version control:
 
