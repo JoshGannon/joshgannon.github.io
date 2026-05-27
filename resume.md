@@ -134,7 +134,7 @@ Piedmont Virginia Community College: (2014 Graduate)
 
 ## CERTIFICATIONS
 
-Fortinet: NSE 7 – SD-WAN · NSE 4 – Network Security Professional
+Fortinet: NSE 7 - SD-WAN · NSE 4 - Network Security Professional
 
 SonicWall: Network Security Administrator (SNSA)
 
