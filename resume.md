@@ -76,8 +76,8 @@ multi-site environments.
 • Core platforms: SonicWall, Fortinet, ExtremeCloud IQ.
 
 ##### Lab - continuous
-Recently: 
-Secure, private hosting of Open Source LLM agents
+Recently:  
+Secure, private hosting of Open Source LLM agents  
 Fortinet
 
 Previously:  
