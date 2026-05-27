@@ -9,7 +9,7 @@ subtitle: Why you want to work with me
 # SUMMARY
 Network security engineer with 10+ years of experience designing and implementing firewall, endpoint, and
 SD-WAN solutions across enterprise and SMB environments. Deep hands-on expertise in Fortinet and SonicWall
-platforms, with demonstrated ability to operate at scale = including a 500% improvement in multi-site firewall
+platforms, with demonstrated ability to operate at scale - including a 500% improvement in multi-site firewall
 deployment efficiency. Experienced in leading escalations, integrating AI tooling into engineering workflows, and
 guiding teams on security best practices. Currently focused on high-trust consulting for digital asset security.
 
@@ -19,7 +19,7 @@ Access · Incident Response & Breach Investigation · Network Segmentation · NG
 Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environments
 
 ## ABOUT
-• I secure networks for a living = and I've been doing it for over a decade across MSP, enterprise, and consulting environments.
+• I secure networks for a living - and I've been doing it for over a decade across MSP, enterprise, and consulting environments.
 
 • My core is firewall architecture: Fortinet, SonicWall, SD-WAN, NGFW policy design, endpoint protection. I've worked everything from active breach response to building deployment systems that cut engineer workload by 500% across thousands of managed firewalls.
 
