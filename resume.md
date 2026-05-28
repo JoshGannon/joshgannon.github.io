@@ -4,7 +4,7 @@ title: Resume
 subtitle: Why you want to work with me
 ---
 
-<a href="/resources/Resume-JoshGannon.pdf" target="_blank" rel="noopener noreferrer">Open my resume (PDF)</a>
+<a href="/resources/Josh_Gannon_Resume.pdf" target="_blank" rel="noopener noreferrer">Open my resume (PDF)</a>
 
 # SUMMARY
 Network security engineer with 10+ years of experience designing and implementing firewall, endpoint, and
