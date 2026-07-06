@@ -11,7 +11,7 @@ Network security engineer with 10+ years of experience designing and implementin
 SD-WAN solutions across enterprise and SMB environments. Deep hands-on expertise in Fortinet and SonicWall
 platforms, with demonstrated ability to operate at scale - including a 500% improvement in multi-site firewall
 deployment efficiency. Experienced in leading escalations, integrating AI tooling into engineering workflows, and
-guiding teams on security best practices. Currently focused on high-trust consulting for digital asset security.
+guiding teams on security best practices. Open for work.
 
 ## Core Competecies
 Firewall Architecture & Deployment · SD-WAN Design · Endpoint Security (EDR/AV) · VPN & Secure Remote
