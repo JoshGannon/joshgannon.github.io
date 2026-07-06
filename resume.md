@@ -31,14 +31,6 @@ Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environme
 
 ## EXPERIENCE
 
-##### Vonvoo: Remote - April2026-Present
-• Independent consulting practice focused on securing personal and organizational digital assets.
-
-• Assess threat exposure and implement layered security controls tailored to high-value individual and
-small-team environments.
-
-• Advise on wallet security, identity protection, access control, and operational security posture
-
 ##### Logically: Remote - August2021-April2026
 Engineer, Security Implemenation:  
 
