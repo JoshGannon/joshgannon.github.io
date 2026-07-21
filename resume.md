@@ -34,7 +34,7 @@ Management · Security Best Practice Design · SIEM Integration · Cloud-IAM
 ## EXPERIENCE
 
 ##### Logically: Remote - August2021-April2026
-Engineer, Security Implemenation:  
+Security Implementation Engineer:  
 
 • Promoted into a formalized senior implementation role within the engineering org.
 
