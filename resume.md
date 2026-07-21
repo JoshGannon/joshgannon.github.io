@@ -14,9 +14,11 @@ deployment efficiency. Experienced in leading escalations, integrating AI toolin
 guiding teams on security best practices. Open for work.
 
 ## Core Competecies
-Firewall Architecture & Deployment · SD-WAN Design · Endpoint Security (EDR/AV) · VPN & Secure Remote
-Access · Incident Response & Breach Investigation · Network Segmentation · NGFW Policy Design · AI
-Agent Development & QA · Escalation Engineering · MSP & Multi-Tenant Environments
+Firewall and Network Architecture & Deployment/Implementation · SD-WAN Design · Security Risk
+Assessment and Remediation · Endpoint Security (EDR/AV) · VPN & Secure Remote Access · Incident
+Response & Breach Investigation · Network Segmentation · NGFW Policy Design · AI Agent Development &
+QA · Escalation Engineering · MSP & Multi-Tenant Environments · Bash Scripting · Linux Server
+Management · Security Best Practice Design · SIEM Integration · Cloud-IAM
 
 ## ABOUT
 • I secure networks for a living - and I've been doing it for over a decade across MSP, enterprise, and consulting environments.
